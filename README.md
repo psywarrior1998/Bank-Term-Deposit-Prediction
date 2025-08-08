@@ -50,17 +50,17 @@ This project follows a structured and rigorous machine learning workflow designe
 ```
 
 .
-├── saved\_graphs/
-│   ├── model\_performance\_comparison.png
-│   ├── confusion\_matrix.png
-│   ├── performance\_curves.png
-│   └── feature\_importance.png
+├── saved_graphs/
+│   ├── model_performance_comparison.png
+│   ├── confusion_matrix.png
+│   ├── performance_curves.png
+│   └── feature_importance.png
 │
-├── saved\_models/
-│   ├── LogisticRegression\_best\_model.pkl
-│   ├── RandomForest\_best\_model.pkl
+├── saved_models/
+│   ├── LogisticRegression_best_model.pkl
+│   ├── RandomForest_best_model.pkl
 │   ├── ... (all other tuned models) ...
-│   └── elite\_ensemble\_model.pkl
+│   └── elite_ensemble_model.pkl
 │
 ├── .gitignore
 ├── README.md
