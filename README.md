@@ -65,7 +65,7 @@ This project follows a structured and rigorous machine learning workflow designe
 ├── .gitignore
 ├── README.md
 ├── requirements.txt
-└── bank\_subscription\_prediction.ipynb   (or .py script)
+└── bank_subscription_prediction.ipynb
 
 ````
 
